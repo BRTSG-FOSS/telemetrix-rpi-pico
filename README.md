@@ -20,7 +20,7 @@ The following functionality is implemented in this release:
 * PWM output
 * Loopback (for client/server link debugging)
 * I2C Support
-* SPI Support
+* SPI Support (Tested on BRT BT81X GPU) 
 * NeoPixel Support
 * Servo Support
 * HC-SR04 Type Sonar Distance Sensor Support
